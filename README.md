@@ -1,1 +1,2 @@
 # PersonalWebsite
+Welcome to my portfolio! I am a Passionate .NET Developer with a strong background in designing, developing, and maintaining robust applications using the .NET framework. Skilled in C#, ASP.NET Core, and Entity Framework for building scalable web applications and RESTful APIs. Proficient in front-end technologies like HTML, CSS, and JavaScript to deliver responsive user interfaces. Experienced in database management with SQL Server and implementing cloud solutions on Azure.
